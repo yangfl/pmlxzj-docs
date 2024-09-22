@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@+id/menu_help2" android:title="操作说明"/>
+    <group android:checkableBehavior="all">
+        <item android:id="@+id/menu_gbzq" android:title="光标增强"/>
+    </group>
+    <group android:checkableBehavior="all">
+        <item android:id="@+id/menu_djtx" android:title="鼠标点击提醒"/>
+    </group>
+    <group android:checkableBehavior="all">
+        <item android:id="@+id/menu_zdgs" android:title="自动光标跟随"/>
+    </group>
+    <item android:id="@+id/menu_fangda" android:title="放大"/>
+    <item android:id="@+id/menu_jie1" android:title="1"/>
+    <item android:id="@+id/menu_jie2" android:title="2"/>
+    <item android:id="@+id/menu_jie3" android:title="3"/>
+    <item android:id="@+id/menu_jie4" android:title="4"/>
+    <item android:id="@+id/menu_jie5" android:title="5"/>
+    <item android:id="@+id/menu_jie6" android:title="6"/>
+    <item android:id="@+id/menu_jie7" android:title="7"/>
+    <item android:id="@+id/menu_jie8" android:title="8"/>
+    <item android:id="@+id/menu_jie9" android:title="9"/>
+    <item android:id="@+id/menu_jie10" android:title="10"/>
+</menu>
